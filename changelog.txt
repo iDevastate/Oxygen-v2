@@ -1,1 +1,2 @@
-Fixed certain scripts not working
+Fixed some bugs
+Oxygen uses luau compiler now -> speed increase
