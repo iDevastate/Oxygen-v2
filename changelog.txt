@@ -1,1 +1,2 @@
-Updated
+Fixed some ui issues
+Changed way of injecting
