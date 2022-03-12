@@ -1,2 +1,4 @@
-Fixed some ui issues
-Changed way of injecting
+[+] Fixed some ui issues
+[+] Changed way of injecting
+
+Redownload for update :)
