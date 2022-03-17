@@ -1,4 +1,5 @@
-[+] Fixed some ui issues
-[+] Changed way of injecting
+[+] updated
+[+] funny roblox update
+[-] expect bugs
 
 Redownload for update :)
