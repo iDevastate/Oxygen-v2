@@ -1,5 +1,4 @@
-[+] updated
-[+] funny roblox update
+[+] fixed oopsie woopsie in ui
 [-] expect bugs
 
-Redownload for update :)
+Run installer or redownload for update
