@@ -1,4 +1,3 @@
-[+] fixed oopsie woopsie in ui
-[-] expect bugs
+kys microsoft
 
 Run installer or redownload for update
