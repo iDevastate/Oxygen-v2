@@ -1,1 +1,3 @@
-Fixed some bugs in dll
+Fixed some minor UI issues
+fixed weird Script Item Animation
+UI Now downloads monaco if not found.
