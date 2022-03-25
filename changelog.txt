@@ -1,1 +1,3 @@
-Ui updates
+Changed the way settings work, your settings WILL be reset.
++ Save Size
+Feel free to DM me if you would like to see any ui features, AHHH#8155
