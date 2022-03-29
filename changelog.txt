@@ -1,3 +1,4 @@
 Fixed a few ongoing issues with the ui
 Injection will now wait for the injector to close, if it takes more then 10 seconds for the DLL to inject then the injection will cancel.
 Any Issues? DM AHHH#8155
+
