@@ -1,3 +1,1 @@
-added a loader to the ui to truly indicate that the ui is indeed loading.
-
-Any issues? let me know! AHHH#8155 .
+Updated for roblox
