@@ -1,1 +1,4 @@
-Updated for roblox
+Fixed miscellaneous bugs
+Fixed certain funcs not working
+Added getrunningscripts/getrenderproperty/setrenderproperty/isrenderobj/compareinstances/getallthreads/getscriptfromthread/gettenv
+Aligned with UNC standards. (scriptunc.org)
