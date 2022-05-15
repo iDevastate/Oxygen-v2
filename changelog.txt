@@ -1,1 +1,1 @@
-Added getproperties
+Fixed ACE
