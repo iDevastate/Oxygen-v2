@@ -1,1 +1,3 @@
-Bug fixes
+Finally updated
+Changed a lot of stuff internally in dll
+Expect bugs!
