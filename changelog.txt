@@ -1,1 +1,2 @@
-Updated!!!
+Fixed gethiddenproperty
+Fixed long injection time
