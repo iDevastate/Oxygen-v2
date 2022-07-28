@@ -1,2 +1,1 @@
-Fixed gethiddenproperty
-Fixed long injection time
+Fixed herobrine causing chaos during injection.
