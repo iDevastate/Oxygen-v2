@@ -1,1 +1,1 @@
-Fixed herobrine causing chaos during injection.
+Fixed functions and support for __iter metamethod.
