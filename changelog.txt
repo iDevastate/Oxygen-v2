@@ -1,2 +1,3 @@
-updated
-added websocket library
+[+] updated
+[+] added websocket library
+[-] removed herobrine
