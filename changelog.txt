@@ -1,4 +1,2 @@
 Changelog:
-[+] Updated
-[+] Sleep deprived
-[+] In need of therapy
+[+] Fixed CoreGui indexing
