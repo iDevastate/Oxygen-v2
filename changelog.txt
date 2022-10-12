@@ -1,2 +1,3 @@
 Changelog:
-[+] updated - a lot changed
+[+] updated
+[-] herobrine
