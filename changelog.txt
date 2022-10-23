@@ -1,3 +1,2 @@
 Changelog:
-[+] updated
-[+] kinda buggy, rewriting stuff to fix this
+[+] fixed tons of bugs
