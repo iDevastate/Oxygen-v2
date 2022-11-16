@@ -1,3 +1,2 @@
 Changelog:
-[+] fixed fireclickdetector
-[+] fixed some bugs
+[+] updated
