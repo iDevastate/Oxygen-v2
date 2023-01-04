@@ -1,2 +1,2 @@
 Changelog:
-[+] Fixed RCE
+[+] Updated for latest patch
