@@ -1,2 +1,2 @@
 Changelog:
-[+] fixed problem
+[+] updated for latest patch
