@@ -1,2 +1,2 @@
 Changelog:
-[+] updated for latest patch
+[+] fixed readfile error not throwing
