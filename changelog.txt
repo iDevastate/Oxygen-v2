@@ -1,2 +1,2 @@
 Changelog:
-[+] updated for latest patch
+[+] updated to work with UWP
