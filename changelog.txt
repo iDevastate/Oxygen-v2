@@ -1,2 +1,2 @@
 Changelog:
-[+] updated to work with UWP
+[+] updated to 577
