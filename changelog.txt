@@ -1,3 +1,2 @@
 Changelog:
-[+] Fixed permissions
-[-] Removed scriptblox.com api from ui for maintenance
+[+] Updated for 588
