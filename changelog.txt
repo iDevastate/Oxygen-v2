@@ -1,2 +1,2 @@
 Changelog:
-[+] Updated for 588
+[+] Updated for 590
