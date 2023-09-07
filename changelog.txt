@@ -1,2 +1,2 @@
 Changelog:
-[+] Updated for 592
+[+] Fixed crashing on injection
